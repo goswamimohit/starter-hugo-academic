@@ -13,7 +13,7 @@ headless: true
 weight: 20
 
 title: Biography
-
+summary:
 👋 Hi, I’m @goswamimohit
 👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
