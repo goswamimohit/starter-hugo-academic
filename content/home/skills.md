@@ -36,7 +36,33 @@ feature:
 - description: 70%
   icon: camera-retro
   icon_pack: fas
-  name: Power BI  
+  name: Power BI
+  
+ - description: 70%
+  icon: camera-retro
+  icon_pack: fas
+  name: Tabelu 
+  
+ - description: 70%
+  icon: camera-retro
+  icon_pack: fas
+  name: MS Office 
+  
+  - description: 70%
+  icon: camera-retro
+  icon_pack: fas
+  name: Matplotlib
+  
+   - description: 70%
+  icon: camera-retro
+  icon_pack: fas
+  name: Seaborn
+  
+  
+   - description: 70%
+  icon: camera-retro
+  icon_pack: fas
+  name: Scikt Learn
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
