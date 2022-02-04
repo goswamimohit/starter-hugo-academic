@@ -12,11 +12,7 @@ role: Data Scientist
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-- 👋 Hi, I’m @goswamimohit
-- 👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
-- 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
-- 💞️ I’m looking to collaborate on data science project specifically related to biology.
+bio: 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
 
 # Interests to show in About widget
 interests:
