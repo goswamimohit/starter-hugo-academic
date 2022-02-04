@@ -32,34 +32,27 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: github
-  
 - description: 70%
   icon: camera-retro
   icon_pack: fas
   name: Power BI
-  
- - description: 70%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: Tabelu 
-  
- - description: 70%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: MS Office 
-  
-  - description: 70%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: Matplotlib
-  
-   - description: 70%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: Seaborn
-  
-  
-   - description: 70%
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: Scikt Learn
