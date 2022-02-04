@@ -23,30 +23,38 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.kaggle.com/learn/certification/gomohit/intro-to-machine-learning
   date_end: ""
   date_start: "2021-01-25"
   description: ""
   organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization_url: https://www.kaggle.com
+  title: 'Intro to Machine Learning'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.kaggle.com/learn/certification/gomohit/data-visualization
   date_end: ""
   date_start: "2021-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  organization_url: https://www.kaggle.com
+  title: 'Data Visualization'
+  url: https://www.kaggle.com
+- certificate_url: https://www.hackerrank.com/certificates/8e1f18b4415a
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
   organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization_url: https://www.hackerrank.com
+  title: 'Python (Basic)'
+  url: "https://www.hackerrank.com"
+- certificate_url: https://www.codecademy.com/profiles/goswamimohit/certificates/050d7cf465567fdd0c9abb1fbf20e269
+  date_end: "2020-12-21"
+  date_start: "2020-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.codecademy.com
+  title: 'Python (Basic)'
+  url: "BI Dashboards with Tableau Course"
 
 design:
   columns: '2' 
