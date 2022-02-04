@@ -12,19 +12,18 @@ role: Data Scientist
 organizations:
 
 # Short bio (displayed in user profile at end of posts)
-bio: My area of interests include machine learning, genomics ,drug discovery and programmable matter.
+bio: 
+👋 Hi, I’m @goswamimohit
+👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
+🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
+💞️ I’m looking to collaborate on data science project specifically related to biology.
 
 # Interests to show in About widget
 interests:
-- Exploratory Data Analysis
-- Visualization
 - Machine Learning
 - Artificial Intelligence
-- Buisenes Inteligence Tool
--   Tabelu
--   Power BI
 - Information Retrieval
-- Anthropologist
+- Anthropology
 
 # Education to show in About widget
 education:
