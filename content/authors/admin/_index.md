@@ -10,8 +10,6 @@ role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-<!-- - name: Stanford University
-  url: https://www.stanford.edu/ -->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My area of interests include machine learning, genomics ,drug discovery and programmable matter.
@@ -80,3 +78,5 @@ Mohit is aspiring data scientist which like to explore thing and finding pattern
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+---
