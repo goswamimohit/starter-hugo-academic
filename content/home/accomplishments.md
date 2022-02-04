@@ -36,7 +36,7 @@ item:
     url: BI Dashboards with Tableau Course
 widget_id: features
 headless: true
-weight: 20
+weight: 40
 title: Accomplishments
 subtitle: null
 design:
