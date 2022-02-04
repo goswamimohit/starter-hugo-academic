@@ -41,7 +41,7 @@ weight: 40
 title: Accomplishments
 subtitle: null
 design:
-  columns: "2"
+  columns: "1"
   background:
     gradient_start: "#74ce6b"
     color: "#be9494"
