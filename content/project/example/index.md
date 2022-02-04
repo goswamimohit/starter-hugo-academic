@@ -2,11 +2,7 @@
 slides: example
 url_pdf: ""
 date: 2022-01-20T00:00:00.000Z
-summary: '<iframe
-  src="https://www.kaggle.com/embed/gomohit/prediction-of-onset-of-diabete?kernelSessionId=86831252"
-  height="800" style="margin: 0 auto; width: 100%; max-width: 950px;"
-  frameborder="0" scrolling="auto" title="Prediction of Onset of
-  Diabete"></iframe>'
+summary: ""
 url_video: ""
 title: Predicting Onset of Diabetes
 featured: false
