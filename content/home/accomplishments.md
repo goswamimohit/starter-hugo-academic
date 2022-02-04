@@ -34,7 +34,7 @@ item:
 - certificate_url: https://www.kaggle.com/learn/certification/gomohit/data-visualization
   date_end: ""
   date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: ''
   organization: Kaggle
   organization_url: https://www.kaggle.com
   title: 'Data Visualization'
