@@ -73,7 +73,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 Mohit
-
+:
 Mohit is aspiring data scientist which like to explore thing and finding patterns.I am part of six month bootcamp on Data Science. I have done Masters in Molecular Medicine.Where i have hand on experine from drug testing on 3D cell culture.By nature enthusiastic biologist.
 
 
