@@ -1,5 +1,6 @@
 ---
-widget: accomplishments
+widget: featurette
+active: true
 date_format: Jan 2006
 item:
   - certificate_url: https://www.kaggle.com/learn/certification/gomohit/intro-to-machine-learning
@@ -34,11 +35,11 @@ item:
     organization_url: https://www.codecademy.com
     title: Python (Basic)
     url: BI Dashboards with Tableau Course
-widget_id: features
+widget_id: Accomplishments
 headless: true
 weight: 40
 title: Accomplishments
 subtitle: null
 design:
-  columns: "2"
+  columns: ""
 ---
