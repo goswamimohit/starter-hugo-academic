@@ -120,7 +120,7 @@ projects:
 breadcrumb:
   page_types:
     book: true
-comments:
+comments: true
   provider: ''
   commentable:
     post: true
