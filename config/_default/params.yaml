@@ -80,7 +80,7 @@ highlight_languages:
 math: true
 diagram: true
 privacy_pack: false
-edit_page:
+edit_page: true
   repo_url: ''
   content_dir: ''
   repo_branch: main
@@ -96,7 +96,7 @@ show_related:
   publication: true
   event: true
 reading_time: true
-section_pager: false
+section_pager: true
 docs_section_pager: true
 sharing: true
 copyright_license:
@@ -114,9 +114,9 @@ publications:
   date_format: January 2006
   citation_style: apa
 projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
+  post_view: 1
+  publication_view: 1
+  talk_view: 1
 breadcrumb:
   page_types:
     book: true
