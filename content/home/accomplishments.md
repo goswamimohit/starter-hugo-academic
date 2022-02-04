@@ -33,8 +33,8 @@ item:
     description: ""
     organization: Codecademy
     organization_url: https://www.codecademy.com
-    title: Python (Basic)
-    url: BI Dashboards with Tableau Course
+    title: BI Dashboards with Tableau Course
+    url: ""
 widget_id: feature
 headless: true
 weight: 40
