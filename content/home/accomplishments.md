@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
+  organization: Kaggle
   organization_url: https://www.kaggle.com
   title: 'Intro to Machine Learning'
   url: ""
@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2021-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  organization: Kaggle
   organization_url: https://www.kaggle.com
   title: 'Data Visualization'
   url: https://www.kaggle.com
@@ -43,7 +43,7 @@ item:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
+  organization: Hackerrank
   organization_url: https://www.hackerrank.com
   title: 'Python (Basic)'
   url: "https://www.hackerrank.com"
@@ -51,7 +51,7 @@ item:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
+  organization: Codecademy
   organization_url: https://www.codecademy.com
   title: 'Python (Basic)'
   url: "BI Dashboards with Tableau Course"
