@@ -43,7 +43,8 @@ subtitle: null
 design:
   columns: "2"
   background:
-    gradient_start: "#a24f4f"
+    gradient_start: "#74ce6b"
     color: "#be9494"
-    gradient_end: "#7a0f0f"
+    gradient_end: "#7edb8d"
+    image_darken: 0
 ---
