@@ -1,5 +1,5 @@
 ---
-widget: Accomplishments
+widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
@@ -41,7 +41,7 @@ weight: 40
 title: Accomplishments
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
   background:
     gradient_start: "#a24f4f"
     color: "#be9494"
