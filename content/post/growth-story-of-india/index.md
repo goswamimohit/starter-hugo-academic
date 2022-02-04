@@ -1,12 +1,12 @@
 ---
 title: Growth Story of India!
-date: 2022-02-04T16:20:53.027Z
+date: 
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 ![](fdi-in-india-1-.png)
 
