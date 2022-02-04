@@ -29,15 +29,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Data Science Bootcamp
-    institution: Odin School
-    year: 2021 -2022
-  - course: Master in Life Science spl Molecular Medicine
-    institution: Central University of Punjab
-    year: 2017
-  - course: BSc in Medical Science
-    institution: Kurukshetra University :: Kurukshetra
-    year: 2015
+    - course: Data Science Bootcamp
+      institution: Odin School
+      year: 2022
+    - course: Master in Life Science spl Molecular Medicine
+      institution: Central University of Punjab
+      year: 2017
+    - course: BSc in Medical
+      institution: "  Kurukshetra University :: Kurukshetra"
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
