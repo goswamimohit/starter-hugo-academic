@@ -13,11 +13,8 @@ headless: true
 weight: 20
 
 title: Biography
-summary:
-👋 Hi, I’m @goswamimohit
-👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
-🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
-💞️ I’m looking to collaborate on data science project specifically related to biology.
+
+
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
