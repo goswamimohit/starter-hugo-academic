@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: Accomplishments
 active: true
 date_format: Jan 2006
 item:
@@ -35,11 +35,11 @@ item:
     organization_url: https://www.codecademy.com
     title: Python (Basic)
     url: BI Dashboards with Tableau Course
-widget_id: Accomplishments
+widget_id: feature
 headless: true
 weight: 40
 title: Accomplishments
 subtitle: null
 design:
-  columns: ""
+  columns: "1"
 ---
