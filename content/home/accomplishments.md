@@ -42,4 +42,8 @@ title: Accomplishments
 subtitle: null
 design:
   columns: "1"
+  background:
+    gradient_start: "#a24f4f"
+    color: "#be9494"
+    gradient_end: "#7a0f0f"
 ---
