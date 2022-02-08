@@ -16,8 +16,8 @@ main:
   - name: Skills
     url: '#skills'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Pages
+    url: '#puplication'
     weight: 60
   - name: Contact
     url: '#contact'
