@@ -12,6 +12,4 @@ image:
   focal_point: ""
   preview_only: true
 ---
-SQL Mind Map 
-
-<iframe src="https://atlas.mindmup.com/2022/02/283f8b40891e11ec87874d98effb616a/sql/index.html"></iframe>
+helloo
