@@ -1,6 +1,6 @@
 ---
 title: "SQL Mind Map "
-date: 2022-02-09T10:03:21.469Z
+date: 2022-02-09T10:09:43.452Z
 summary: ""
 draft: false
 featured: true
