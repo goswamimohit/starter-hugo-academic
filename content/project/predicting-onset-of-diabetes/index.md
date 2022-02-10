@@ -11,8 +11,8 @@ links:
     icon_pack: fab
 image:
   filename: diabetics.png
-  focal_point: Smart
-  preview_only: false
+  focal_point: BOTTOM
+  preview_only: true
 ---
 
 
