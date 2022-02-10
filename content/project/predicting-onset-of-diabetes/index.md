@@ -5,6 +5,8 @@ draft: false
 featured: false
 tags:
   - Machine Learning
+links:
+  - url: https://share.streamlit.io/goswamimohit/car/main/diabetics_prediction_web_app.py
 image:
   filename: featured
   focal_point: Smart
