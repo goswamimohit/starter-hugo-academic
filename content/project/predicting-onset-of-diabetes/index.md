@@ -7,8 +7,10 @@ tags:
   - Machine Learning
 links:
   - url: https://share.streamlit.io/goswamimohit/car/main/diabetics_prediction_web_app.py
+    name: "Check Your Diabeticts Prediction "
+    icon_pack: fab
 image:
-  filename: featured
+  filename: diabetics.png
   focal_point: Smart
   preview_only: false
 ---
