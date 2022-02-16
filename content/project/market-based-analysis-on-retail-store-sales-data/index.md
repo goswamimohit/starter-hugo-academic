@@ -1,5 +1,5 @@
 ---
-title: Market Based Analysis on Retail Store Sales Data
+title: Frequently Set of Items Bought Together
 date: 2022-02-10T14:18:26.455Z
 summary: >-
   * In today's competitive world if we make choice easier and fast its going
@@ -19,8 +19,12 @@ summary: >-
   * Feature selection and feature engineering to mould dataset suitable for prediction.
 draft: false
 featured: true
+external_link: OPTIONAL
+links:
+  - url: https://github.com/goswamimohit/Sales_Dtaa_EDA/blob/main/Frequently_Items_Bought_Together_%26_EDA_On_Retail_Store_Sales.ipynb
+    name: Frequently Set of Items Bought Together
 image:
-  filename: featured
-  focal_point: Smart
-  preview_only: true
+  filename: featured.png
+  focal_point: BOTTOM
+  preview_only: false
 ---
