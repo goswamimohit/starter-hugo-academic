@@ -10,6 +10,6 @@ links:
     icon_pack: ai
 image:
   filename: featured.png
-  focal_point: BOTTOM
+  focal_point: Bottom
   preview_only: true
 ---
