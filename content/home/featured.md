@@ -9,22 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Github Stats
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
 
 design:
   # Choose a view for the listings:
@@ -32,5 +22,14 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
+---
+---
+
+**Github Stats:**
+
+<a href="https://github.com/goswamimohit">
+  <img height="700px" src="https://github-readme-stats.vercel.app/api?username=goswamimohit&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
+</a>
+
 ---
