@@ -1,8 +1,14 @@
 ---
 title: Inventory Analysis
-summary: EDA on item in stock or non stock both 
-tags:
-- CV
 date: 2022-01-01
-external_link:  https://github.com/goswamimohit/IMUS-Project
+summary: ""
+tags:
+  - CV
+external_link: https://github.com/goswamimohit/IMUS-Project
+links:
+  - url: https://github.com/goswamimohit/IMUS-Project
+    name: IMUS
+image:
+  filename: featured.png
 ---
+EDA on item in stock or non stock both
