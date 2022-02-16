@@ -2,15 +2,16 @@
 title: Predicting Onset of Diabetes
 date: 2022-02-03T16:43:53.845Z
 draft: false
-featured: false
+featured: true
 tags:
   - Machine Learning
+external_link: OPTIONAL - https://github.com/goswamimohit/PIMA-INDIAN-Diabetic
 links:
   - url: https://share.streamlit.io/goswamimohit/car/main/diabetics_prediction_web_app.py
     name: "Check Your Diabeticts Prediction "
     icon_pack: fab
 image:
-  filename: diabetics.png
+  filename: featured.png
   focal_point: BOTTOM
   preview_only: true
 ---
