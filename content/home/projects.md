@@ -5,6 +5,7 @@ headless: true
 weight: 40
 title: Projects
 subtitle: ""
+active: true
 content:
   page_type: project
   filter_default: 0
@@ -16,7 +17,7 @@ content:
     - name: Exploratory Data Analysis
       tag: EDA
 design:
-  columns: "1"
+  columns: "2"
   view: 5
   flip_alt_rows: true
   background:
