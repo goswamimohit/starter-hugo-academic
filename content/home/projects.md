@@ -17,12 +17,12 @@ content:
     - name: Exploratory Data Analysis
       tag: EDA
 design:
-  columns: "2"
+  columns: "1"
   view: 5
   flip_alt_rows: true
   background:
-    color: "#9b7272"
-    gradient_start: "#6b3737"
-    gradient_end: "#9d6161"
+    color: ""
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
 ---
