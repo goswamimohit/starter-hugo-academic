@@ -1,13 +1,13 @@
 ---
-title: Predicting Onset of Heart Attack
+title: "Predicting Onset of Heart Attack "
 date: 2022-02-04T16:46:44.629Z
 draft: false
-featured: false
+featured: true
 external_link: https://github.com/goswamimohit/Heart-_Rate_Prediction
 links:
   - url: https://github.com/goswamimohit/Heart-_Rate_Prediction
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
