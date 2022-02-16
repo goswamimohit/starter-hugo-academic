@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: projects
 headless: true
 weight: 40
-title: Projects
+title: ""
 subtitle: ""
 active: true
 content:
@@ -17,12 +17,9 @@ content:
     - name: Exploratory Data Analysis
       tag: EDA
 design:
-  columns: "1"
-  view: 5
+  columns: '1'
+  view: masonry
   flip_alt_rows: true
-  background:
-    color: ""
-    gradient_start: ""
-    gradient_end: ""
-    text_color_light: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
 ---
