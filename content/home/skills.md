@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 70%
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description: 80%
   icon: chart-line
@@ -29,8 +29,8 @@ feature:
   icon_pack: custom
   name: SQL
 - description: 70%
-  icon: camera-retro
-  icon_pack: fas
+  icon: github
+  icon_pack: custom
   name: github
 - description: 70%
   icon: camera-retro
@@ -45,16 +45,16 @@ feature:
   icon_pack: fas
   name: MS Office 
 - description: 70%
-  icon: camera-retro
-  icon_pack: fas
+  icon: Matplotlib
+  icon_pack: custom
   name: Matplotlib
 - description: 70%
-  icon: camera-retro
-  icon_pack: fas
+  icon: seaborn
+  icon_pack: custom
   name: Seaborn
 - description: 70%
-  icon: camera-retro
-  icon_pack: fas
+  icon: Scikit_learn
+  icon_pack: custom
   name: Scikt Learn
 
 # Uncomment to use emoji icons.
