@@ -43,6 +43,15 @@ item:
     organization_url: https://www.codecademy.com
     title: SQL
     url: ""
+    
+  - certificate_url: https://www.dropbox.com/s/6byx7ncwfs75lro/MohitGoswami-NDG%20Linux%20Unhatc-certificate_3.pdf?dl=0
+    date_end: 2022-05-03
+    date_start: 2020-07-01
+    description: ""
+    organization: NetaCad
+    organization_url: https://www.netacad.com/
+    title: NDG Linux Unhatche
+    url: "" 
 widget_id: feature
 headless: true
 weight: 40
@@ -54,5 +63,5 @@ design:
     gradient_start: "#74ce6b"
     color: "#be9494"
     gradient_end: "#7edb8d"
-    image_darken: 0
+    image_darken: 1
 ---
