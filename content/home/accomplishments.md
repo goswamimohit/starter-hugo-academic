@@ -35,6 +35,15 @@ item:
     organization_url: https://www.codecademy.com
     title: BI Dashboards with Tableau Course
     url: ""
+  - certificate_url: https://www.codecademy.com/profiles/goswamimohit/certificates/042a4e5884e3eb6ea1f2a12be6abb851
+    date_end: 2022-05-03
+    date_start: 2020-07-01
+    description: ""
+    organization: Codecademy
+    organization_url: https://www.codecademy.com
+    title: SQL
+    url: ""
+    
 widget_id: feature
 headless: true
 weight: 40
