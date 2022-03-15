@@ -43,7 +43,6 @@ item:
     organization_url: https://www.codecademy.com
     title: SQL
     url: ""
-    
 widget_id: feature
 headless: true
 weight: 40
