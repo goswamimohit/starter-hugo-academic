@@ -16,43 +16,43 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 70%
+- description: 
   icon: python
   icon_pack: custom
   name: Python
-- description: 80%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 70%
+- description: 
   icon: mysql
   icon_pack: custom
   name: SQL
-- description: 70%
+- description: 
   icon: github
   icon_pack: custom
   name: github
-- description: 70%
-  icon: camera-retro
-  icon_pack: fas
+- description: 
+  icon: custom
+  icon_pack: PowerBI
   name: Power BI
-- description: 70%
-  icon: camera-retro
-  icon_pack: fas
+- description: 
+  icon: custom
+  icon_pack: tableau
   name: Tabelu 
-- description: 70%
-  icon: camera-retro
-  icon_pack: fas
+- description: 
+  icon: custom
+  icon_pack: office
   name: MS Office 
-- description: 70%
+- description: 
   icon: Matplotlib
   icon_pack: custom
   name: Matplotlib
-- description: 70%
+- description: 
   icon: seaborn
   icon_pack: custom
   name: Seaborn
-- description: 70%
+- description: 
   icon: Scikit_learn
   icon_pack: custom
   name: Scikt Learn
@@ -70,5 +70,5 @@ feature:
 - icon: "linux"
   icon_pack: "custom"
   name: "linux"
-  description: "90%"
+  description: 
 ---
