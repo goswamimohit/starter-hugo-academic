@@ -33,16 +33,16 @@ feature:
   icon_pack: custom
   name: github
 - description: 
-  icon: custom
-  icon_pack: PowerBI
+  icon: PowerBI
+  icon_pack: custom
   name: Power BI
 - description: 
-  icon: custom
-  icon_pack: tableau
+  icon: tableau
+  icon_pack: custom
   name: Tabelu 
 - description: 
-  icon: custom
-  icon_pack: office
+  icon: office
+  icon_pack: custom
   name: MS Office 
 - description: 
   icon: Matplotlib
