@@ -1,6 +1,6 @@
 ---
 title: Mohit Goswami
-role: Data Scientist
+role: Data Analyst
 bio: 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
 interests:
   - Machine Learning
