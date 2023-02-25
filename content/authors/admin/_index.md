@@ -1,7 +1,7 @@
 ---
 title: Mohit Goswami
-role: Data Analyst
-bio: 🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
+role: Associate Data Scientist @ADQ Services
+bio: 🌱 Associate Data Scientist with Masters in Life Sciences
 interests:
   - Machine Learning
   - Artificial Intelligence
@@ -23,7 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mohitg0swami/
-organizations: null
+organizations:
+  - name: ADQ Servcies
+    url: https://adqservices.com/
+  - name: Central University of Punjab
+    url: http://cup.edu.in/
 education:
   courses:
     - course: Data Science Bootcamp
@@ -39,13 +43,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-👋 Hi, I’m @goswamimohit
+Hi, I'm Mohit  an Associate Data Scientist at ADQ Services with a Master of Science in Life Science and a specialization in Molecular Medicine, I am a dynamic and driven individual with a passion for both biology and computers. 
 
+I have a keen interest in combining these two fields to unlock new insights and solve complex problems. With experience in python, statistics, EDA, machine learning, deep learning, NLP, biology, time series, and Power BI, I bring a diverse skillset to any project.
 
-👀 I’m interested in data science ,drugs , biology , anthropology and sociology.
+My background includes a one-year research project at my university, where I honed my skills in data analysis, visualization, and interpretation. I thrive on solving challenging problems and working collaboratively with others to achieve shared goals. My ultimate career aspiration is to become an expert in the field of bioinformatics and use my skills to make a meaningful impact in the world.
 
-🌱 I’m currently learning data science ,python ,Machine learning ,EDA etc
-
-
-💞️ I’m looking to collaborate on data science project specifically related to biology.
-
+If you are looking for a data scientist with a background in biology and a passion for data science and biology, please feel free to connect with me. I am always interested in learning about new opportunities and collaborating with like-minded professionals.
